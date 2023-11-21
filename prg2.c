@@ -1,3 +1,5 @@
+// vector = 3 
+// cost of matrix 0 1 5 1 0 2 5 2 0
 #include<stdio.h> 
 struct rtable 
 { 	

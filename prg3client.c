@@ -39,4 +39,4 @@ exit(0);
 }
 write (1,buffer,n);
 }
-
+//./a.out 127.0.0.1 test.txt 2023

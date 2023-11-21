@@ -9,6 +9,8 @@
 // 10.1.1.0
 // n0	n1
 // point-to-point
+
+// run the program ./waf --run scratch/fullduplexncg
 //
 using namespace ns3;
 NS_LOG_COMPONENT_DEFINE    ("FirstScriptExample");

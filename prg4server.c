@@ -10,7 +10,7 @@
 #define FIFO2 "fifo2"
 int main()
 {
-char p[100],c[5000,ch;
+char p[100],c[5000],ch;
 int num,fd,fd2,f1;
 mknod(FIFO1,S_IFIFO|0666,0);
 mknod(FIFO2,S_IFIFO|0666,0);
